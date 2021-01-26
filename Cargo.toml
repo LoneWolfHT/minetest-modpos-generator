@@ -1,0 +1,11 @@
+[package]
+name = "mtf-modpost-gen"
+version = "0.2.0"
+authors = ["LoneWolfHT <lonewolf04361@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clipboard = "0.5.0"
+term = "0.7.0"
+curl = "0.4.34"
+json = "0.12.4"

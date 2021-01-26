@@ -1,1 +1,3 @@
-./output.txt
+target/
+.vscode/
+Cargo.lock
